@@ -1,0 +1,16 @@
+h1{
+    font-size: 40px;
+}
+
+.col-9{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.col-3{
+    font-size: 30px;
+}
+
+.currentConditions {
+    font-size: 18px;
+}
